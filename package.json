@@ -8,6 +8,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@genezio/email-service": "^1.0.2-dev",
         "@genezio/types": "^1.0.14",
         "node-fetch": "^3.3.2"
     },
